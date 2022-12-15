@@ -12,7 +12,8 @@ npm i express
 
 Demo
 
-
+![Image text]
+https://github.com/JustinCChen/Note-Taker/blob/main/Assets/Screen%20Shot%202022-12-14%20at%208.30.30%20PM.png
 
 License
 N/A
